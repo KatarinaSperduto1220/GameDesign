@@ -217,6 +217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &12589344
@@ -324,6 +325,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &19691995
@@ -512,6 +514,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &23570230
@@ -619,6 +622,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &36517373
@@ -653,7 +657,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 0.975, z: 1}
   m_Children:
   - {fileID: 809956180}
-  - {fileID: 932657285}
+  - {fileID: 227075138}
   m_Father: {fileID: 1908000797}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -845,6 +849,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &51509182
@@ -952,6 +957,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &61547241
@@ -1059,6 +1065,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &69852588
@@ -1166,6 +1173,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &91630714
@@ -1273,6 +1281,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &96889197
@@ -1380,6 +1389,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &103006561
@@ -1487,6 +1497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &115292020
@@ -1594,6 +1605,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &121455573
@@ -1701,6 +1713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &124088191
@@ -1808,6 +1821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &135100015
@@ -1915,6 +1929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &139094741
@@ -2022,6 +2037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &139973979
@@ -2159,6 +2175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &147882471
@@ -2266,6 +2283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &148525799
@@ -2373,6 +2391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &149749332
@@ -2480,6 +2499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &160938804
@@ -2587,6 +2607,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &170076733
@@ -2763,6 +2784,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &186513547
@@ -2870,6 +2892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &213243345
@@ -2977,8 +3000,305 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
+--- !u!1 &214457804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 214457805}
+  - component: {fileID: 214457808}
+  - component: {fileID: 214457807}
+  - component: {fileID: 214457806}
+  m_Layer: 5
+  m_Name: Cost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &214457805
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214457804}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 295091385}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &214457806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214457804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &214457807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214457804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 16
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: $100
+--- !u!222 &214457808
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214457804}
+  m_CullTransparentMesh: 0
+--- !u!1001 &227075137
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 36517374}
+    m_Modifications:
+    - target: {fileID: 1623390840042106, guid: a60f3b888eedb4d3e8dbb277505a26c2, type: 3}
+      propertyPath: m_Name
+      value: MissileLauncherItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 36517375}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SelectMissileLauncher
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 114204985077940272, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114474910721515478, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ac7a9b822a89e48358a7bdb23686680d,
+        type: 3}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 29.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -58.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -14.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -77.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 4544190930297868660, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Name
+      value: CostBG
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.5372549
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a60f3b888eedb4d3e8dbb277505a26c2, type: 3}
+--- !u!224 &227075138 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 224968735854570238, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+    type: 3}
+  m_PrefabInstance: {fileID: 227075137}
+  m_PrefabAsset: {fileID: 0}
+--- !u!224 &227075139 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+    type: 3}
+  m_PrefabInstance: {fileID: 227075137}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &237514742
 GameObject:
   m_ObjectHideFlags: 0
@@ -3084,6 +3404,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &239689860
@@ -3191,6 +3512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &242489869
@@ -3298,6 +3620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &267633869
@@ -3405,6 +3728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &274074727
@@ -3617,6 +3941,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &280828745
@@ -3724,8 +4049,118 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
+--- !u!1 &283868316
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 283868317}
+  - component: {fileID: 283868321}
+  - component: {fileID: 283868320}
+  - component: {fileID: 283868319}
+  - component: {fileID: 283868318}
+  m_Layer: 5
+  m_Name: MoneyCounter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &283868317
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283868316}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1908000797}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 20, y: 0}
+  m_SizeDelta: {x: 180, y: 60}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &283868318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283868316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db167626419e1d54bbb03fe603e2de6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moneyText: {fileID: 283868320}
+--- !u!114 &283868319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283868316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 1}
+  m_EffectDistance: {x: 0.5, y: -0.5}
+  m_UseGraphicAlpha: 1
+--- !u!114 &283868320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283868316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.9811321, g: 0.9487362, b: 0.9487362, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 36
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 300
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: $350
+--- !u!222 &283868321
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283868316}
+  m_CullTransparentMesh: 0
 --- !u!1 &286078467
 GameObject:
   m_ObjectHideFlags: 0
@@ -3831,6 +4266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &292743370
@@ -3938,6 +4374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1001 &295091384
@@ -4078,8 +4515,59 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 5e8f4b808643c44619f6e3e38dfe3477,
         type: 3}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 29.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -58.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -14.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -77.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 4544190930297868660, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Name
+      value: CostBG
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351187568051337605, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.5372549
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a60f3b888eedb4d3e8dbb277505a26c2, type: 3}
+--- !u!224 &295091385 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 4796042943135190149, guid: a60f3b888eedb4d3e8dbb277505a26c2,
+    type: 3}
+  m_PrefabInstance: {fileID: 295091384}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &312164562
 GameObject:
   m_ObjectHideFlags: 0
@@ -4185,6 +4673,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &324922544
@@ -4292,6 +4781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &325363489
@@ -4399,6 +4889,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &338281501
@@ -4506,6 +4997,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &343886456
@@ -4613,6 +5105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &357690990
@@ -4949,6 +5442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &360832374
@@ -5056,6 +5550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &361170418
@@ -5163,6 +5658,101 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
   m_Center: {x: -0.00000023841858, y: -0.000000078231096, z: -0.00000023841858}
+--- !u!1 &361204391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 361204392}
+  - component: {fileID: 361204395}
+  - component: {fileID: 361204394}
+  - component: {fileID: 361204393}
+  m_Layer: 5
+  m_Name: Cost
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &361204392
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361204391}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 227075139}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &361204393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361204391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 1, y: -1}
+  m_UseGraphicAlpha: 1
+--- !u!114 &361204394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361204391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 16
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: $250
+--- !u!222 &361204395
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361204391}
+  m_CullTransparentMesh: 0
 --- !u!1 &369549844
 GameObject:
   m_ObjectHideFlags: 0
@@ -5298,6 +5888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &390144730
@@ -5435,6 +6026,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &434637060
@@ -5542,6 +6134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &454908190
@@ -5649,6 +6242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &487745195
@@ -5756,6 +6350,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &515403883
@@ -5863,6 +6458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &529977973
@@ -5970,6 +6566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &530643257
@@ -6077,6 +6674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &534669902
@@ -6284,6 +6882,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &567861253
@@ -6391,6 +6990,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &571810284
@@ -6498,6 +7098,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &574150408
@@ -6605,6 +7206,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &598405015
@@ -6712,6 +7314,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &600120324
@@ -6819,6 +7422,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &601814465
@@ -6926,6 +7530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &608665383
@@ -7033,6 +7638,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &640334572
@@ -7140,6 +7746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &654122648
@@ -7247,6 +7854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &662544814
@@ -7354,6 +7962,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &672866282
@@ -7461,6 +8070,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &676526221
@@ -7568,6 +8178,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &684313496
@@ -7675,6 +8286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &688096819
@@ -7782,6 +8394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &699267673
@@ -7889,6 +8502,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &700278476
@@ -7996,6 +8610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &709829660
@@ -8103,6 +8718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &710924435
@@ -8210,6 +8826,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &712133682
@@ -8317,6 +8934,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &742354504
@@ -8424,6 +9042,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &750830862
@@ -8531,6 +9150,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &769278623
@@ -8638,6 +9258,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &785435664
@@ -8789,6 +9410,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &803487727
@@ -8896,6 +9518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!224 &809956180 stripped
@@ -9156,6 +9779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &877540295
@@ -9263,6 +9887,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &885924204
@@ -9370,6 +9995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &898761235
@@ -9477,12 +10103,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1.0000001}
   m_Center: {x: 0, y: -0.00000008195639, z: 0}
---- !u!224 &932657285 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-    type: 3}
-  m_PrefabInstance: {fileID: 1185595999}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &940735781
 GameObject:
   m_ObjectHideFlags: 0
@@ -9588,6 +10208,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &944734568
@@ -9695,6 +10316,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &947295719
@@ -9802,6 +10424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &952537051
@@ -9909,6 +10532,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &966987576
@@ -10016,6 +10640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &970876685
@@ -10228,6 +10853,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &986254023
@@ -10335,6 +10961,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1003907203
@@ -10442,6 +11069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1013119410
@@ -10549,6 +11177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1038462951
@@ -10656,6 +11285,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1040521501
@@ -10763,6 +11393,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1044924195
@@ -10870,6 +11501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1058734000
@@ -10905,11 +11537,11 @@ RectTransform:
   m_Father: {fileID: 1908000797}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 50, y: 30}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: 60, y: 0}
   m_SizeDelta: {x: 180, y: 60}
-  m_Pivot: {x: 0, y: 0}
+  m_Pivot: {x: 1, y: 0}
 --- !u!114 &1058734002
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10943,7 +11575,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 5
+  m_Text: 20.00
 --- !u!222 &1058734003
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11072,6 +11704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1070165041
@@ -11179,6 +11812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1074291755
@@ -11286,6 +11920,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1096317462
@@ -11393,6 +12028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1127121968
@@ -11530,6 +12166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1137664447
@@ -11637,6 +12274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1145007588
@@ -11744,6 +12382,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1166017254
@@ -11851,6 +12490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1172775603
@@ -11958,6 +12598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1173037193
@@ -12065,142 +12706,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
---- !u!1001 &1185595999
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 36517374}
-    m_Modifications:
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_Pivot.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 224401156542957516, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_Pivot.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 36517375}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: SelectMissileLauncher
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
-    - target: {fileID: 114367151540715832, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb,
-        type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: PurchaseMissileLauncher
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 4bd8f11be8fdc4e858c6f8842b55e0fb, type: 3}
 --- !u!1 &1187185292
 GameObject:
   m_ObjectHideFlags: 0
@@ -12306,6 +12814,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1200843737
@@ -12413,6 +12922,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.5188679, g: 0.5017355, b: 0.5017355, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1203844577
@@ -12520,6 +13030,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1230273214
@@ -12627,6 +13138,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1263683392
@@ -12734,6 +13246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1270173442
@@ -12871,6 +13384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1279429207
@@ -12978,6 +13492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1282390445
@@ -13085,6 +13600,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1286667239
@@ -13192,6 +13708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1286667962
@@ -13299,6 +13816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1287682538
@@ -13406,6 +13924,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1310189466
@@ -13513,6 +14032,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1315464248
@@ -13620,6 +14140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1319923142
@@ -13727,6 +14248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1333690006
@@ -13834,6 +14356,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1337492637
@@ -13941,6 +14464,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1344710580
@@ -14048,6 +14572,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1350823560
@@ -14155,6 +14680,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1351974022
@@ -14241,7 +14767,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1351974022}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b5b60a0fda795874d87ab32eafcd75e3, type: 3}
+  m_Script: {fileID: 11500000, guid: 8ec07fcb53cfd414d84bcf4412a32c49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startMoney: 400
@@ -14351,6 +14877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1001 &1353027531
@@ -14506,6 +15033,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1383581142
@@ -14718,6 +15246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1398486714
@@ -14825,6 +15354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1418898575
@@ -14932,6 +15462,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1423766025
@@ -15039,6 +15570,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1427440560
@@ -15146,6 +15678,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1433096451
@@ -15358,6 +15891,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1482467358
@@ -15495,6 +16029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1492329109
@@ -15602,6 +16137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1495290859
@@ -15709,6 +16245,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1510241469
@@ -15921,6 +16458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1520930901
@@ -16028,6 +16566,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1521817128
@@ -16135,6 +16674,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1525556505
@@ -16242,6 +16782,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1529593135
@@ -16349,6 +16890,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1561224848
@@ -16486,6 +17028,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1564345784
@@ -16593,6 +17136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1571049867
@@ -16700,6 +17244,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1583037456
@@ -16807,6 +17352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1589659776
@@ -16914,6 +17460,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1592856099
@@ -17021,6 +17568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1597324706
@@ -17128,6 +17676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1628064325
@@ -17235,6 +17784,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1632870195
@@ -17342,6 +17892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1634288304
@@ -17449,6 +18000,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1645209398
@@ -17556,6 +18108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1648867216
@@ -17663,6 +18216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1682550044
@@ -17875,6 +18429,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1710932177
@@ -17982,6 +18537,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1716412961
@@ -18089,6 +18645,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1722813370
@@ -18196,6 +18753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1723833699
@@ -18369,6 +18927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1753537591
@@ -18476,6 +19035,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1753788907
@@ -18583,6 +19143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1765240490
@@ -18690,6 +19251,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1766633766
@@ -18797,6 +19359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1770107678
@@ -18904,6 +19467,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1778076217
@@ -19132,6 +19696,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1787965707
@@ -19239,6 +19804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1789829762
@@ -19346,6 +19912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1791444688
@@ -19453,6 +20020,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1798163141
@@ -19560,6 +20128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1804484648
@@ -19667,6 +20236,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1806906532
@@ -19774,6 +20344,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1810754672
@@ -19881,6 +20452,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1814915905
@@ -19988,6 +20560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1816609294
@@ -20095,6 +20668,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1819527092
@@ -20202,6 +20776,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1829168857
@@ -20309,6 +20884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1832613253
@@ -20416,6 +20992,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1838078359
@@ -20523,6 +21100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1840928241
@@ -20660,6 +21238,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1847022986
@@ -20797,6 +21376,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1856522053
@@ -20904,6 +21484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1870673314
@@ -21011,6 +21592,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1892831414
@@ -21223,6 +21805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1908000793
@@ -21317,6 +21900,7 @@ RectTransform:
   m_Children:
   - {fileID: 36517374}
   - {fileID: 1058734001}
+  - {fileID: 283868317}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -21430,6 +22014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1920741611
@@ -21537,6 +22122,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1925226744
@@ -21644,6 +22230,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1938541422
@@ -21751,6 +22338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1942346922
@@ -21858,6 +22446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1955624160
@@ -21965,6 +22554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1966643189
@@ -22072,6 +22662,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1972324023
@@ -22179,6 +22770,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1972840192
@@ -22286,6 +22878,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1997751697
@@ -22393,6 +22986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &1999810580
@@ -22696,6 +23290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2016877967
@@ -22803,6 +23398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2026194526
@@ -22910,6 +23506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2026654078
@@ -23017,6 +23614,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2038445430
@@ -23124,6 +23722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2044124154
@@ -23231,6 +23830,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2062074267
@@ -23338,6 +23938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2066716541
@@ -23445,6 +24046,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2076306291
@@ -23582,6 +24184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2092006768
@@ -23689,6 +24292,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2092514641
@@ -23826,6 +24430,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2104730353
@@ -24038,6 +24643,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2112759397
@@ -24145,6 +24751,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2129065627
@@ -24252,6 +24859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2133029840
@@ -24494,6 +25102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
 --- !u!1 &2143220966
@@ -24706,5 +25315,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoverColor: {r: 0.2924528, g: 0.28003737, b: 0.28003737, a: 0}
+  notEnoughMoneyColor: {r: 0.745283, g: 0, b: 0, a: 0}
   positionOffset: {x: 0, y: 0, z: 0}
   turret: {fileID: 0}
