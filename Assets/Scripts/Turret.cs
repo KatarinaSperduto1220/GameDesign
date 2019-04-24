@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class Turret : MonoBehaviour {
     private Transform target;
-    public float range = 15f;
     [Header("Attributes")]
-
-    public Transform partToRotate;
-    public float turnSpeed = 10f; 
-    public string enemyTag = "Enemy";
-
-    [Header("Unity Setup")]
-
+    public float range = 15f;
     public float fireRate = 1f;
     private float fireCountdown = 0f;
+
+
+    [Header("Unity Setup")]
+    public Transform partToRotate;
+    public float turnSpeed = 10f;
+    public string enemyTag = "Enemy";
+
 
     public GameObject bulletPrefab; 
     public Transform firePoint; 
