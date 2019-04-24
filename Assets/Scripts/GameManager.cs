@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
     {
         GameIsOver = true;
         gameOverUI.SetActive(true);
+        Debug.Log("Game is over.");
     }
 
     public void WinLevel()
