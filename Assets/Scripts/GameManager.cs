@@ -20,10 +20,10 @@ public class GameManager : MonoBehaviour
         if (GameIsOver)
             return;
 
-        //if (PlayerStats.Lives <= 0)
-        //{
-        //    EndGame();
-        //}
+        if (PlayerStats.Lives <= 0)
+        {
+            EndGame();
+        }
     }
 
     void EndGame()
